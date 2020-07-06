@@ -6,3 +6,5 @@ Website to see COVID-19 status in INDIA
 
 ![COVID-19 Status](https://github.com/ashfreakingoyal/coronastatus/blob/master/images/covid.jpeg)
 
+API used: https://api.covid19india.org/data.json
+
