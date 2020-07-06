@@ -1,0 +1,6 @@
+body{
+    font-family: 'Baloo Thambi 2', cursive;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
